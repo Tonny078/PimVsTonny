@@ -60,6 +60,16 @@ From the project root:
 python battleV2.py
 ```
 
+## Screenshots
+
+### Match Intro
+
+![Pim vs Tonny intro screen](screenshots/battle-intro.png)
+
+### Mid-Fight Combat
+
+![Pim vs Tonny combat screen](screenshots/battle-combat.png)
+
 ## Project Structure
 
 ```text
@@ -67,6 +77,10 @@ PimVsTonny/
   battleV2.py
   LICENSE
   README.md
+  requirements.txt
+  screenshots/
+    battle-intro.png
+    battle-combat.png
 ```
 
 ## Security and Sharing Check

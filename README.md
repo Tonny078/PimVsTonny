@@ -83,16 +83,6 @@ PimVsTonny/
     battle-combat.png
 ```
 
-## Security and Sharing Check
-
-Repository review for common secret patterns (API keys, tokens, passwords, private keys) found no sensitive credentials in project source files.
-
-Important notes:
-
-- Keyword matches were only normal legal wording inside LICENSE text.
-- Local .git hook sample files can contain words like "token" but are template scripts, not leaked credentials.
-- Current project content appears safe to publish to GitHub.
-
 ## License
 
 This project is licensed under GNU GPL v3. See LICENSE.
